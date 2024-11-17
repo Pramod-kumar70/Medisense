@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman';
+
+}
+.Section_1{
+    width: auto;
+    height: 500px;
+    background-image: url(pf-426bfb51-634e-4c3b-90c9-4c14f99bdd15--pfdf3ad89242a64b1194c98aeb5d8e4bf4mask1png-Edited\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: 60%;
+}
+.Section_1 button{
+    background-color: #2A3A47;
+    color: white;
+    padding: 15px;
+    padding-inline: 45px;
+    font-size: 15px;
+}
+.Section_2_1{
+    background-image: url(https://pagefly.myshopify.com/cdn/shop/t/10/assets/pf-f302fe14-4436-40b0-89ca-3cea63ad7bff--pfb298b48890ce45b1aece4ab23bc7db2amask2png-Edited.jpg?127167);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Section_2_2{
+    background-image: url(https://pagefly.myshopify.com/cdn/shop/t/10/assets/pf-91651474-95a4-47eb-843c-33e209ba2d50--pfbbfebd3a62ec44fb90c7cd3b7a79eeb5mask3png-Edited.jpg?127191);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+.BtnSection{
+    background-color: white;
+    border-right: 0px;
+    border-left: 7px solid #000;
+    border-top: 0px;
+    border-bottom: 0px;
+    
+}
+.Section_3 button{
+    padding-block: 10px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    background-color: #2285D9;
+}
+.Adjust_Image Img{
+    width: 150px;
+}
+.Section_6_BGimg{
+    background-image: url(https://pagefly.myshopify.com/cdn/shop/t/10/assets/pf-f5f8b677-bf35-49ca-bacd-02467425c038--pf42e177bce8204878b2194bb52f2b0266mask5png-Edited.jpg?127203);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table tr td{
+    padding: 40px;
+    border: 1px solid rgba(128, 128, 128, 0.518);
+}
+
+@media only screen and (max-width: 600px) {
+    .Section_1{
+        height: 380px;
+    }
+}
