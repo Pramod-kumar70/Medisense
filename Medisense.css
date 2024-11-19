@@ -5,12 +5,11 @@
 
 }
 .Section_1{
-    width: auto;
-    height: 500px;
     background-image: url(pf-426bfb51-634e-4c3b-90c9-4c14f99bdd15--pfdf3ad89242a64b1194c98aeb5d8e4bf4mask1png-Edited\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    background-position: 60%;
+    background-position: 55%;
+    height: 450px;
 }
 .Section_1 button{
     background-color: #2A3A47;
@@ -48,10 +47,20 @@
 .Adjust_Image Img{
     width: 150px;
 }
+.Section_6_img{
+
+    margin-top: -120px;
+    margin-bottom: -24px;
+
+}
 .Section_6_BGimg{
     background-image: url(https://pagefly.myshopify.com/cdn/shop/t/10/assets/pf-f5f8b677-bf35-49ca-bacd-02467425c038--pf42e177bce8204878b2194bb52f2b0266mask5png-Edited.jpg?127203);
     background-repeat: no-repeat;
     background-size: cover;
+}
+.HoverEffect{
+    background-color: #2A3A47;
+    color: white;
 }
 table tr td{
     padding: 40px;
